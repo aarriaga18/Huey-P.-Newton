@@ -1,0 +1,31 @@
+img{
+  width: 100%;
+  object-fit: contain;
+}
+
+
+#jumbo{
+  padding:0;
+}
+.row{
+  display:flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+#video{
+  width: 275px;
+  height: 270px;
+}
+#book{
+  width: 70x; 
+  height: 70x;
+}
+table,th,td{
+  border: 1px solid black;
+}
+table{
+  background-color:gray;
+}
+#box{
+  margin:auto;
+}
